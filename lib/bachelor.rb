@@ -50,4 +50,4 @@ total_age = 0
   average = total_age.to_f/data[season].length
   average.round
 end	
-end
+
